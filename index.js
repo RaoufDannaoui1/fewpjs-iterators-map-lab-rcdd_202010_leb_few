@@ -13,8 +13,9 @@ const tutorials = [
 
 const right= []
 const titleCased = () => {
-  right=tutorials.map(function(lesson){}
-   tutorials[].split(" ").split(0).toUpperCase()
+  right=tutorials.map(function(lesson){
+
+  return tutorials[].split(" ").split(0).toUpperCase()
  })
   return right
 }
